@@ -1,6 +1,6 @@
 # Text_classification with BoW & Naive_Bayes model, and investigating effect of Lemmatization & Stemming on on the model performance
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Flaptrinhx.com%2Fnews%2Fapplications-of-nlp-text-generation-text-summarization-and-sentiment-analysis-xPMGalO%2F&psig=AOvVaw2Q-gSsDis8Jc7crQcGh6zL&ust=1628787666326000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCuqKi5qfICFQAAAAAdAAAAABAO)
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaptrinhx.com%2Fnews%2Fapplications-of-nlp-text-generation-text-summarization-and-sentiment-analysis-xPMGalO%2F&psig=AOvVaw2Q-gSsDis8Jc7crQcGh6zL&ust=1628787666326000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCuqKi5qfICFQAAAAAdAAAAABAO">
 
 ## Findings -:-
 
